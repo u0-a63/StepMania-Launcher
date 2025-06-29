@@ -1,5 +1,3 @@
-# Code and builds will be added in a bit, do not harass me because it's taking a bit too long
-
 # StepMania-Launcher
 A simple launcher for StepMania written in Python.
 # How to use
@@ -23,3 +21,6 @@ Yes, you need the square brackets or it won't work.
 Either you can make your own downloads.list, or you can download the one from this repo. The choice is yours.
 
 And that's about it!
+
+
+# If you find any bugs or issues DM me on Discord, my username is chipthegoober_
