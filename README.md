@@ -23,4 +23,4 @@ Either you can make your own downloads.list, or you can download the one from th
 And that's about it!
 
 
-# If you find any bugs or issues DM me on Discord, my username is chipthegoober_
+# If you find any bugs or issues DM me on Discord or open an issue, my username on Discord is chipthegoober_
