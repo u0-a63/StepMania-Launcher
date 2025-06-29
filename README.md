@@ -1,4 +1,4 @@
-# Code and releases will be added in a bit, do not harass me because it's taking a bit too long
+# Code and builds will be added in a bit, do not harass me because it's taking a bit too long
 
 # StepMania-Launcher
 A simple launcher for StepMania written in Python.
